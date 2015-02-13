@@ -6,4 +6,5 @@ All resources used in training exercises must be accompanied with a detailed REA
 
 When delivering training consider:
 - Not everything can be written for reference. Be over-prepared.
+    - Let the README for each specific training project be written as losely as possible. 
 - Teach best practice from the very beginning. (To this end - know best practice).
