@@ -20,7 +20,7 @@ HTML is Hypertext Markup Language. It is the bare-bones framework that describes
 HTML is a descriptive and instructive language which defines what things you want to go where on your website. It doesn't care about white-space or indentation or line-breaks and it should *never* (except for some very rare circumstances) contain logic or styling.
 
 #### Take-aways
-- 
+
 ## Step 2
 ### *CSS*
 
