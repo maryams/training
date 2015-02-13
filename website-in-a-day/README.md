@@ -1,16 +1,12 @@
-## Resources
-
-- Taster day responsive site to use as a template
-- Taster day resource list for making your first website
-    - [Hosted here on JSBin](http://jsbin.com/locamo/latest)
-
 ## Introduction
 
 To begin with, and while our projects are relatively lo-tech, we will develop on a system called JSBin. JSBin is a website that makes websites: it allows you to write html, css, and javascript on an online environment that automatically combines the three and instantly updates the result. JSBin hosts all of your work with a unique URL meaning you can come back to a project anytime from any machine. 
 
-Get a GitHub account - We'll come back to this later, it's good to connect this to JSBin early. 
+- [Get a GitHub account](https://github.com/join) - We'll come back to this later, it's good to connect this to JSBin early. 
 
-Set up a JSBin account using your GitHub account!
+- Open [this reference page](http://jsbin.com/locamo/latest).
+
+- Set up a JSBin account using your GitHub account!
 
 ## Step 1
 ### *HTML*
