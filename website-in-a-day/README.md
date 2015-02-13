@@ -8,18 +8,23 @@
 
 To begin with, and while our projects are relatively lo-tech, we will develop on a system called JSBin. JSBin is a website that makes websites: it allows you to write html, css, and javascript on an online environment that automatically combines the three and instantly updates the result. JSBin hosts all of your work with a unique URL meaning you can come back to a project anytime from any machine. 
 
-## Step 1
-### *HMTL*
+Get a GitHub account - We'll come back to this later, it's good to connect this to JSBin early. 
 
-HTML is the language of the website. It is the bare-bones framework that describes the flow of every document you will find on a website. 
+Set up a JSBin account using your GitHub account!
+
+## Step 1
+### *HTML*
+
+HTML is Hypertext Markup Language. It is the bare-bones framework that describes the flow of every document you will find on a website. 
 
 HTML is a descriptive and instructive language which defines what things you want to go where on your website. It doesn't care about white-space or indentation or line-breaks and it should *never* (except for some very rare circumstances) contain logic or styling.
 
 #### Take-aways
-
-
+- 
 ## Step 2
 ### *CSS*
+
+CSS is cascading style sheets. It comes in this form:
 
 ```
 selector {
@@ -27,6 +32,9 @@ selector {
     another-property: value;
 }
 ```
+The C in CSS reflects the importance of ordering your style declarations correctly. A parent element's styles will cascade down to a child's styles, and a declaration using a selector at the start of the document will be overwritten by a declaration on the same selector at the bottom. 
+
+#### Take-aways
 
 ## Step 3
 ### *Responsive Design*
