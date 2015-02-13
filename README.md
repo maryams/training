@@ -3,3 +3,7 @@
 This will be a starting point for everyone interested in running a training workshop. 
 
 All resources used in training exercises must be accompanied with a detailed README and instructions for use. 
+
+When delivering training consider:
+- Not everything can be written for reference. Be over-prepared.
+- Teach best practice from the very beginning. (To this end - know best practice).
