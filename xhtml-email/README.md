@@ -12,7 +12,7 @@ Previously we learned about ensuring the separation of concerns: layout, style, 
 ### HTML 
 
 ## Step 2
-### * CSS
+### *CSS*
 
 - Keep it to a max-width of 600px
 - Images
