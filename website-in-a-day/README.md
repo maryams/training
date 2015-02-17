@@ -16,8 +16,10 @@ To begin with, and while our projects are relatively lo-tech, we will develop on
 #### You're Better than binary!
 - Coding can often be frustrating, but at the same time, getting something to work and look how you intended can be an incredible feeling. However, don't be fooled into thinking that it's all just a case of your code working or not. 
 - Always take the time to understand what you're doing as you implement it. Try to get to a place where you can repeat what you just did and explain it to someone as you go along. 
+
 #### Readability is, like, super, super important.
 - Your code may be fancy, your website may look beautiful, but if nobody, not even you can come back to it and make changes: you're a bloomin' liability.
+
 #### Don't Stop Learnin'
 - Push the boundaries of what's possible. Be creative: the only limitation is your own engenuity!
 
